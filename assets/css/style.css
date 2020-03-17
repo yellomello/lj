@@ -1151,16 +1151,19 @@ a:hover {
     margin: 15px 0;
   }
   .about-text ul li {
+    width: 100%
     margin-bottom: 10px;
     color: #646f79;
     font-size:14px;
   }
   .about-text ul li, .single-feature ul li {
+    width: 100%;
     margin-bottom: 10px;
     color: #646f79;
     font-size:14px;
   }
   .about-text ul li i.bi, .single-feature ul li i.bi {
+    width: 100%;
     padding-right: 5px;
     color:#646f79
   }
